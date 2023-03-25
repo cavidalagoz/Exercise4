@@ -1,0 +1,22 @@
+.qara{
+background-color: black;
+}
+
+.sipringgreen{
+    color: springgreen;
+}
+
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+
+input{
+    color: springgreen ;
+    background-color: black;
+    border: 2px solid springgreen;
+}
+
+
